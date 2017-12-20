@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  react-app:
+  - created: 2017-12-20T19:41:32.55567835+03:00
+    description: Front-End instance for micro-company
+    digest: 3453015cea923e4da8d935ff04d41a5ef419d9921d98ef6749acf021de72a263
+    engine: gotpl
+    home: https://github.com/micro-company/react-app
+    keywords:
+    - micro-company
+    - react
+    - go-auth
+    maintainers:
+    - email: batazor111@gmail.com
+      name: Login Victor
+    name: react-app
+    sources:
+    - https://github.com/micro-company/react-app
+    urls:
+    - http://127.0.0.1:8879/react-app-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-12-20T19:41:32.555102983+03:00
