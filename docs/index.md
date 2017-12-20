@@ -1,3 +1,3 @@
 # Charts Repo
 
-Point Helm at this repo to see charts.
+Point Helm at this repo to see charts
