@@ -5,7 +5,7 @@ Helm Charts
 
 ```
 # Add repo to Helm
-helm repo add micro-company https://micro-company.github.io/charts
+helm repo add micro-company https://micro-company.github.io/charts/
 
 # Update repo charts
 helm repo update
