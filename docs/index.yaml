@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
   react-app:
-  - created: 2017-12-27T06:29:18.724538733Z
+  - created: 2017-12-27T12:38:33.319205665Z
     description: Front-End instance for micro-company
     digest: 1a478b8b9ce11b45d1fdef7b39af755f2a780405fff5fbcc222e6da544264f53
     engine: gotpl
@@ -19,7 +19,7 @@ entries:
     urls:
     - react-app-0.1.1.tgz
     version: 0.1.1
-  - created: 2017-12-27T06:29:18.723909148Z
+  - created: 2017-12-27T12:38:33.318916047Z
     description: Front-End instance for micro-company
     digest: 3453015cea923e4da8d935ff04d41a5ef419d9921d98ef6749acf021de72a263
     engine: gotpl
@@ -37,4 +37,4 @@ entries:
     urls:
     - react-app-0.1.0.tgz
     version: 0.1.0
-generated: 2017-12-27T06:29:18.722880276Z
+generated: 2017-12-27T12:38:33.31847441Z
