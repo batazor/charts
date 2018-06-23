@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
   go-logger:
-  - created: 2018-06-23T23:15:01.116064464Z
+  - created: 2018-06-23T23:30:56.676062757Z
     description: Save telemtery to TSDB
     digest: fe0a7390d17e11c55ae51b733047e3076b79b3992e455b9059f9b092a01b39e8
     engine: gotpl
@@ -14,7 +14,7 @@ entries:
     - go-logger-0.1.0.tgz
     version: 0.1.0
   ingress:
-  - created: 2018-06-23T23:15:01.116302751Z
+  - created: 2018-06-23T23:30:56.676290961Z
     description: Ingress instance
     digest: 5d348e093349335779f6e3922b238a695c1274b46c947ead5143d649927925c4
     engine: gotpl
@@ -32,7 +32,7 @@ entries:
     - ingress-0.1.0.tgz
     version: 0.1.0
   react-app:
-  - created: 2018-06-23T23:15:01.11686733Z
+  - created: 2018-06-23T23:30:56.676802154Z
     description: Front-End instance for micro-company
     digest: 1a478b8b9ce11b45d1fdef7b39af755f2a780405fff5fbcc222e6da544264f53
     engine: gotpl
@@ -50,7 +50,7 @@ entries:
     urls:
     - react-app-0.1.1.tgz
     version: 0.1.1
-  - created: 2018-06-23T23:15:01.116605414Z
+  - created: 2018-06-23T23:30:56.676560654Z
     description: Front-End instance for micro-company
     digest: 3453015cea923e4da8d935ff04d41a5ef419d9921d98ef6749acf021de72a263
     engine: gotpl
@@ -68,4 +68,4 @@ entries:
     urls:
     - react-app-0.1.0.tgz
     version: 0.1.0
-generated: 2018-06-23T23:15:01.115686477Z
+generated: 2018-06-23T23:30:56.675637736Z
